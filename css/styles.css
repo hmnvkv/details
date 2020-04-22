@@ -1,0 +1,14 @@
+.bg {
+  background-color: #D2E39F;
+  background-image: url(../img/background.jpg);
+  font-size: 18px;
+}
+
+.blur {
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(8px); 
+}
+
+.nav-bg {
+  background-color: #7CC076;
+}
